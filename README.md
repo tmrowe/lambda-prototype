@@ -1,2 +1,2 @@
-# lambda-prototype
+# Lambda Prototype
 Prototype demonstrating an AWS Lambda.
