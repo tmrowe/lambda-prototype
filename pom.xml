@@ -20,7 +20,7 @@
         <aws-lambda-java-core.version>1.2.0</aws-lambda-java-core.version>
 
         <!-- Testing -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>2.27.0</mockito.version>
         <mockito-kotlin.version>1.6.0</mockito-kotlin.version>
 
